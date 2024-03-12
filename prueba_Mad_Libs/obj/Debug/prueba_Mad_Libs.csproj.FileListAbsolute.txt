@@ -1,0 +1,7 @@
+E:\Visual\PROYECTS\prueba_Mad_Libs\prueba_Mad_Libs\bin\Debug\prueba_Mad_Libs.exe.config
+E:\Visual\PROYECTS\prueba_Mad_Libs\prueba_Mad_Libs\bin\Debug\prueba_Mad_Libs.exe
+E:\Visual\PROYECTS\prueba_Mad_Libs\prueba_Mad_Libs\bin\Debug\prueba_Mad_Libs.pdb
+E:\Visual\PROYECTS\prueba_Mad_Libs\prueba_Mad_Libs\obj\Debug\prueba_Mad_Libs.csproj.AssemblyReference.cache
+E:\Visual\PROYECTS\prueba_Mad_Libs\prueba_Mad_Libs\obj\Debug\prueba_Mad_Libs.csproj.CoreCompileInputs.cache
+E:\Visual\PROYECTS\prueba_Mad_Libs\prueba_Mad_Libs\obj\Debug\prueba_Mad_Libs.exe
+E:\Visual\PROYECTS\prueba_Mad_Libs\prueba_Mad_Libs\obj\Debug\prueba_Mad_Libs.pdb
